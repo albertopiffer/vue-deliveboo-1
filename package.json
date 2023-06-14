@@ -1,0 +1,33 @@
+{
+  "name": "vue-deliveboo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "braintree-web": "^3.95.0-beta-3ds.1",
+    "vue": "^3.2.47",
+    "vue-easy-slider": "^5.3.4",
+    "vue-router": "^4.2.1",
+    "vue-slick-carousel": "^1.0.6",
+    "vue3-carousel": "^0.3.1",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.62.1",
+    "vite": "^4.3.2"
+  }
+}
